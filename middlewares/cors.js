@@ -1,6 +1,7 @@
 const allowedCors = [
   'https://movieretrieval.nomoredomains.club',
   'http://movieretrieval.nomoredomains.club',
+  'http://localhost:3001',
 ];
 const DEFAULT_ALLOWED_METHODS = 'GET,HEAD,PATCH,POST,DELETE';
 
